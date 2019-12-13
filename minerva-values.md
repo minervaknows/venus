@@ -1,3 +1,4 @@
+v0.0.1
 # Core purpose
 People are most engaged and happiest when they have a goal they believe in, a
 community working together in pursuit of that goal, and feel the community
