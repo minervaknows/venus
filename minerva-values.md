@@ -76,5 +76,8 @@ that future by taking risks, failing, and learning from failure. We aim to
 pursue mastery and growth over superficially displaying competence in low-risk
 endeavors. Aim high and take risks, failure be damned.
 
+## Co-Signed By
+Joaquin Roca
+
 ---
 <sup>v0.0.1</sup>
