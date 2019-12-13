@@ -1,5 +1,6 @@
-v0.0.1
-# Core purpose
+# Minerva's Values
+---
+## Core purpose
 People are most engaged and happiest when they have a goal they believe in, a
 community working together in pursuit of that goal, and feel the community
 collectively has the power (agency) to achieve the goal. Our purpose is to
@@ -7,11 +8,13 @@ create a large community composed of many smaller communities built around the
 goal of elegantly serving one another by making process knowledge and expertise
 you can trust instantly accessible wherever you need it right when you need it.
 
-## Strive For Elegance 
+These are the values that define our community:
+
+### Strive For Elegance 
 Minablers never utilize “utilize” when they can use “use.” Elegance is the key
 to delighting our community.
 
-## &
+### &
 In the movie production community, “and” implies an additive contribution, but
 doesn’t mean the parties ever worked together. When you see credits with an “&”
 it represents a close partnership. Our community is about real partnership.
@@ -25,7 +28,7 @@ from those connections.
 - We value diversity in all forms as the foundation of a strong community.
 - We actively seek to support all members of our community.
 
-## Be Accessible
+### Be Accessible
 Minablers actively pursue avenues to increase community and accessibility. We
 are hungry to hear how we are failing on these fronts and to work on tearing
 down existing barriers alongside those who do not feel welcome or do not have
@@ -38,7 +41,7 @@ commitment to continually do better little by little.
 - Actively find people we are failing and seek first to listen, then build
 understanding, and finally to cocreate a plan to improve.
 
-## Commit to Service
+### Commit to Service
 Minablers commit ourselves to serving those we interact with in order to enable
 them to reach their goals. We hope this inspires those we serve in turn to serve
 others. Ours is a community built on service.
@@ -48,7 +51,7 @@ others. Ours is a community built on service.
 not the other way around.
 - Ask what someone needs and work to help them receive it.
 
-## Engender Trustworthiness
+### Engender Trustworthiness
 Minablers act with honor in all things, even when it is difficult. Without
 trust, there is no community. Without honor, there is no trust. We cannot and
 will not please everyone all the time, but we commit to being honest and
@@ -63,7 +66,7 @@ a public commitment to do better.
 in a kind and supportive manner, with the goal of empowering people to grow as
 opposed to demeaning or belittling.
 
-## Act With Vision
+### Act With Vision
 Minablers look to the future in order to understand how we can best serve our
 community. This will lead to disagreements. (If it doesn’t we aren’t being
 bold enough!) Use differences of opinion and task conflict to come to
@@ -73,3 +76,6 @@ future we are all proud of and excited to achieve. Then, get to work creating
 that future by taking risks, failing, and learning from failure. We aim to
 pursue mastery and growth over superficially displaying competence in low-risk
 endeavors. Aim high and take risks, failure be damned.
+
+---
+<sup>v0.0.1</sup>
