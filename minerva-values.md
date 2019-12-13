@@ -1,6 +1,5 @@
 # Minerva's Values
 ---
-## Core purpose
 People are most engaged and happiest when they have a goal they believe in, a
 community working together in pursuit of that goal, and feel the community
 collectively has the power (agency) to achieve the goal. Our purpose is to
