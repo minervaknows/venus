@@ -77,8 +77,10 @@ pursue mastery and growth over superficially displaying competence in low-risk
 endeavors. Aim high and take risks, failure be damned.
 
 ## Co-Signed By
-Joaquin Roca 12/6/19<br>
-Craig T. Wood 12/16/19 Here we go!
+
+- Joaquin Roca 12/6/19
+- Craig T. Wood 12/16/19 Here we go!
+- Rafael Gonzaque 12/16/19
 
 ---
 <sup>v0.0.1</sup>
