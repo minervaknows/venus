@@ -78,6 +78,7 @@ endeavors. Aim high and take risks, failure be damned.
 
 ## Co-Signed By
 Joaquin Roca
+Craig T. Wood 12/16/19 Here we go!
 
 ---
 <sup>v0.0.1</sup>
