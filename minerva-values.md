@@ -81,6 +81,7 @@ endeavors. Aim high and take risks, failure be damned.
 - Joaquin Roca 12/6/19
 - Craig T. Wood 12/16/19 Here we go!
 - Rafael Gonzaque 12/16/19
+- Your Name Here MM/DD/YY
 
 ---
 <sup>v0.0.1</sup>
