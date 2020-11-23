@@ -86,7 +86,7 @@ endeavors. Aim high and take risks, failure be damned.
 - Davin Chew 11/18/20
 - Daniel T.R. Vega 11/23/20
 - Theon Freeman 11/23/20 
-Your Name Here!! MM/DD/YY
+- Your Name Here!! MM/DD/YY
 
 ---
 <sup>v0.0.1</sup>
