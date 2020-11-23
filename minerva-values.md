@@ -81,7 +81,7 @@ endeavors. Aim high and take risks, failure be damned.
 - Joaquin Roca 12/6/19
 - Craig T. Wood 12/16/19 Here we go!
 - Rafael Gonzaque 12/16/19
-– Peter Crysdale 1/15/20 All in!
+- Peter Crysdale 1/15/20 All in!
 - Morgan Brown 2/3/20
 - Davin Chew 11/18/20
 - Your Name Here!! MM/DD/YY
